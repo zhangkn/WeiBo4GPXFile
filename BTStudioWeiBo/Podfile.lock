@@ -41,7 +41,7 @@ DEPENDENCIES:
   - YYModel
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - AFNetworking
     - Alamofire
     - FMDB
@@ -67,4 +67,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: cd651d9b73e1dc20e77978b3032071a406648e85
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.9.1
